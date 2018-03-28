@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\bin\Debug\FactorialForLoopToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\bin\Debug\FactorialForLoopToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\bin\Debug\FactorialForLoopToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\obj\Debug\FactorialForLoopToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\obj\Debug\FactorialForLoopToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\obj\Debug\FactorialForLoopToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\obj\Debug\FactorialForLoopToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\obj\Debug\FactorialForLoopToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\FactorialForLoopToluA\FactorialForLoopToluA\obj\Debug\FactorialForLoopToluA.frmFactorialForLoop.resources
